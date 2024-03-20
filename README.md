@@ -1,5 +1,4 @@
-# DP-Delights
-# A Dynamic Programming Repository
+# DP-Delights : *A Dynamic Programming Repository*
 
 Welcome to my Dynamic Programming repository! Here, I gather all types of Dynamic Programming questions and solutions to help you master this powerful algorithmic technique.
 
