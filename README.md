@@ -1,7 +1,7 @@
 # DP-Delights
 # A Dynamic Programming Repository
 
-Welcome to our Dynamic Programming repository! Here, we gather all types of Dynamic Programming questions and solutions to help you master this powerful algorithmic technique.
+Welcome to my Dynamic Programming repository! Here, I gather all types of Dynamic Programming questions and solutions to help you master this powerful algorithmic technique.
 
 ## About Dynamic Programming
 
@@ -28,7 +28,7 @@ Feel free to contribute by adding new questions, providing better solutions, or 
 
 ## Let's Dive In!
 
-Start exploring our collection of Dynamic Programming questions and solutions, and let's conquer these challenges together!
+Start exploring my collection of Dynamic Programming questions and solutions, and let's conquer these challenges together!
 
 Happy Coding! 🚀
 
